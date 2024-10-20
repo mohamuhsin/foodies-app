@@ -9,4 +9,5 @@ App built with next.js.
 > /community
 > /meals/<some slug>
 > ```
- 
+
+### 2. 
