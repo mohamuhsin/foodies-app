@@ -3,7 +3,7 @@
 
 
 ## How we built it (step by step):
-### 1. creating three routes and one dynamic route:
+### 1. created three routes and one dynamic route:
 > ```
 > /meals
 > /meals/share
