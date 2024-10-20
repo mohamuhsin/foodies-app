@@ -1,5 +1,6 @@
 # The Foodies App
-> App built with next.js from scratch.
+> App built with next.js from scratch. check it out [The Foodies App](https://foodies-app-five-olive.vercel.app/).
+
 
 ## How we built it (step by step):
 ### 1. creating three routes and one dynamic route:
