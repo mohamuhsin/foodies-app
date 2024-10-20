@@ -8,4 +8,5 @@ App built with next.js.
 > /meals/share
 > /community
 > /meals/<some slug >
- '''
+> ```
+ 
