@@ -7,6 +7,6 @@ App built with next.js.
 > /meals
 > /meals/share
 > /community
-> /meals/<some slug >
+> /meals/<some slug>
 > ```
  
