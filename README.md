@@ -1,4 +1,4 @@
-# The Foodies App
+I'm# The Foodies App
 > App built with next.js from scratch. check it out [The Foodies App](https://foodies-app-five-olive.vercel.app/).
 
 
@@ -11,4 +11,4 @@
 > /meals/<some slug>
 > ```
 
-### 2
+### 2.
