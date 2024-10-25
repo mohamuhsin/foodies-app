@@ -11,4 +11,4 @@ I'm# The Foodies App
 > /meals/<some slug>
 > ```
 
-### 2.
+### 2
