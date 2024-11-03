@@ -35,3 +35,6 @@
 ### 9. React Server Components Vs Client Components:
 > We discussed that React.js executes its components in the browser but Nextjs only executes in the backend server because its a full stack framework, so executing client components in nextjs causes error and we have to use ```use client``` on top of our components to be able to prerender some of those components on the server but also on the client site. very important concept to understand.
 
+### 10. Using Client Components Efficiently:
+> We demonstrated how to use client component efficiently so that only the needed client components are executed on the client site, such components could be eventhandlers, useEffect or useState and many more.
+
