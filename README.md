@@ -26,3 +26,6 @@
 ### 6. Using More Custom Component:
 > Created more custom components in the app.
 
+### 7. Populated our root page.js with content:
+> The root page.js which is the root page of our app, we added some content to it.
+
