@@ -32,3 +32,6 @@
 ### 8. Prepared an image slideshow:
 > We created a logic for showing images in a slideshow using useState and useEffect together with setInterval concepts.
 
+### 9. React Server Components Vs Client Components:
+> We discussed that React.js executes its components in the browser but Nextjs only executes in the backend server because its a full stack framework, so executing client components in nextjs causes error and we have to use ```use client``` on top of our components to be able to prerender some of those components on the server but also on the client site. very important concept to understand.
+
