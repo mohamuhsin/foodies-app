@@ -26,6 +26,9 @@
 ### 6. Using More Custom Component:
 > Created more custom components in the app.
 
-### 7. Populated our root page.js with content:
+### 7. Populating our root page.js with content:
 > The root page.js which is the root page of our app, we added some content to it.
+
+### 8. Prepared an image slideshow:
+> We created a logic for showing images in a slideshow using useState and useEffect together with setInterval concepts.
 
