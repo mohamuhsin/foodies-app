@@ -11,4 +11,4 @@
 > /meals/<some slug>
 > ```
 
-### 2.
+### 2. Reviting the concept of layouts:
