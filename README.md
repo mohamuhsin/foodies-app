@@ -17,3 +17,6 @@
 ### 3. Adding a custom component to a layout:
 > We added a Header component, that will be visible in all pages inside the root layout, the root layout also takes meta data like title and description of the app.
 
+### 4.Styling our app using css modules:
+> We styled this App using cdd modules, tailwind and the others could also work.
+
