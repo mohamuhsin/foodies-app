@@ -15,5 +15,5 @@
 > layouts in nextjs acts as wrappers around pages, we can also have nexted layouts.
 
 ### 3. Adding a custom component to a layout:
-> We added a Header component, that will be visible in all pages inside the root layout.
+> We added a Header component, that will be visible in all pages inside the root layout, the root layout also takes meta data like title and description of the app.
 
