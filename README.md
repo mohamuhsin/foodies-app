@@ -41,3 +41,4 @@
 ### 11. Outputting Meals Data and Images with Unknown dimensions:
 > We used the fill property in nextjs's Image component to output images without setting height and width, because those images are fetched from the server, therefore fill property helps load images dynamically without resolving height and width property.
 
+### 12. Setting up SQLite database:
