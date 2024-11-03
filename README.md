@@ -12,7 +12,7 @@
 > ```
 
 ### 2. Reviting the concept of layouts:
-> layouts in nextjs acts as wrappers around pages, we can also have nexted layouts.
+> Layouts in nextjs acts as wrappers around pages, we can also have nexted layouts.
 
 ### 3. Adding a custom component to a layout:
 > We added a Header component, that will be visible in all pages inside the root layout, the root layout also takes meta data like title and description of the app.
@@ -22,4 +22,7 @@
 
 ### 5. Optimized Images with the Nextjs Image Component:
 > Nextjs recommends its Image component to be used rather than <img />, which helps output images in a more optimized way.
+
+### 6. Using More Custom Component:
+> Created more custom components in the app.
 
