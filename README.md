@@ -20,3 +20,6 @@
 ### 4. Styling our app using css modules:
 > We styled this App using cdd modules, tailwind and the others could also work.
 
+### 5. Optimized Images with the Nextjs Image Component:
+> Nextjs recommends its Image component to be used rather than <img />, which helps output images in a more optimized way.
+
