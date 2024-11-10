@@ -1,9 +1,14 @@
+import { notFound } from "next/navigation";
 import classes from "./page.module.css";
 import Image from "next/image";
 import { getMeal } from "@/lib/meals";
 
 export default async function MealDetailsPage({ params }) {
     const meal = await getMeal(params.mealSlug);
+
+    if (!meal) {
+        notFound();
+    }
 
     const formattedInstructions = meal.instructions.replace(/\n/g, "<br />");
 
