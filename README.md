@@ -47,3 +47,6 @@
 ### 13. Fetching Data By Leveraging NextJS & Fullstack Capabilities:
 > Fetched our meals by connecting to our db and used sql query to select all meals from the db and used the data to be rendered on meals page.
 
+### 14. Added Loading Page:
+> Added loading page using the reserved loading.js which can be accessed by a page which is loading data.
+
