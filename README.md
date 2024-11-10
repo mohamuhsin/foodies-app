@@ -58,3 +58,6 @@
 
 ### 17. Handling "Not Found" States:
 > Used not-found.js page to display a page incase a user searches for a page or resource that is unavailable in the App.
+
+### 18. Loading & Rendering Meal Details via Dynamic Routes & Route Parameters:
+> Worked on meal details, got meals from db where slug=slug from db and used params prop to access the mealSlug object and its value, and to display the meal details.
