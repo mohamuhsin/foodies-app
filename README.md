@@ -42,3 +42,8 @@
 > We used the fill property in nextjs's Image component to output images without setting height and width, because those images are fetched from the server, therefore fill property helps load images dynamically without resolving height and width property.
 
 ### 12. Setting up SQLite Database:
+> We setup our database using better-sqlite3.
+
+### 13. Fetching Data By Leveraging NextJS & Fullstack Capabilities:
+> Fetched our meals by connecting to our db and used sql query to select all meals from the db and used the data to be rendered on meals page.
+
