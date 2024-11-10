@@ -50,3 +50,5 @@
 ### 14. Added Loading Page:
 > Added loading page using the reserved loading.js which can be accessed by a page which is loading data.
 
+### 15.Using Suspense & Streamed Responses For Granular Loading State Management:
+> Used granular loading state management together with state for handling loading states for individual components or sections of a page rather than for the entire application or page. 
