@@ -63,5 +63,5 @@
 > Worked on meal details, got meals from db where slug=slug from db and used params prop to access the mealSlug object and its value, and to display the meal details.
 
 ### 19. Throwing Not Found Errors For Individual Meals:
-> Used the NotFound() method to throw the closest not-found.js page incase unavailabe slug is searched by a user
+> Used the NotFound() method to throw the closest not-found.js page incase unavailabe slug is searched by a user.
 
