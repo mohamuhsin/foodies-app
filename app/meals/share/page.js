@@ -2,18 +2,14 @@
 
 import { useActionState } from "react";
 
-import ImagePicker from "@/components/meals/image-picker";
-import classes from "./page.module.css";
 import { shareMeal } from "@/lib/actions";
+import classes from "./page.module.css";
+import ImagePicker from "@/components/meals/image-picker";
 import MealsFormSubmit from "@/components/meals/meals-form-submit";
-
-export const metadata = {
-    title: "Share meal",
-    description: "Form to share meal with the community.",
-};
 
 export default function ShareMealPage() {
     const [state, formAction] = useActionState(shareMeal, { message: null });
+
     return (
         <>
             <header className={classes.header}>
@@ -51,7 +47,7 @@ export default function ShareMealPage() {
                             required
                         ></textarea>
                     </p>
-                    <ImagePicker label="your image" name="image" />
+                    <ImagePicker label="Your image" name="image" />
                     {state.message && <p>{state.message}</p>}
                     <p className={classes.actions}>
                         <MealsFormSubmit />
