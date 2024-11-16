@@ -7,7 +7,7 @@ import classes from "./page.module.css";
 
 export const metadata = {
     title: "Community",
-    description: "Join our community and share your favorite recipes.",
+    description: "Join our community and share your favorite recipe.",
 };
 
 export default function CommunityPage() {
